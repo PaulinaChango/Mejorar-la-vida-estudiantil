@@ -1,1 +1,14 @@
+Funciones principales:
+- Calendario integrado con recordatorios
+- Temporizador de estudio tipo Pomodoro
+- Estadísticas de productividad
 
+Ventajas:
+- Gratuito
+- Sin anuncios
+- Acceso sin internet (modo offline)
+
+Posibles mejoras futuras:
+- Sincronización con Google Calendar
+- Modo oscuro automático
+- Gamificación con logros
