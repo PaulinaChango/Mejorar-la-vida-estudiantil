@@ -9,3 +9,9 @@ Muchos estudiantes olvidan fechas de entrega o tienen mala distribución de su t
 
 ## Público objetivo
 Estudiantes de 18 a 25 años de nivel superior.
+
+## Integrantes y roles
+-  Paulina Chango– Líder de proyecto  
+-  Diseñador digital  
+-  Documentador  
+-  Administrador GitHub
